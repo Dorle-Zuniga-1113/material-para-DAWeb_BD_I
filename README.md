@@ -10,7 +10,13 @@ tenemos link de referencia mas documentos Agosto 2024
 - https://codepen.io/enara/pen/LYogGy
 - Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
 - https://www.mclibre.org/
-  ## framework y lemguaje de programacion
+  ## framework y lenguaje de programacion
   - paginas web para programacion
   - https://www.w3schools.com/
-  - 
+  - python
+  - https://www.w3schools.com/python/default.asp
+  - descargar python
+  - https://www.python.org/downloads/
+ 
+  - programacion online
+  - https://coddy.tech/
